@@ -26,7 +26,7 @@ Notes
 ----
 
 * A protocol can be extended to multiple protocols.
-* If an object satisfies multiple that have been adapted to a given
+* If an object satisfies multiple protocols that have been adapted to a given
   protocol then it is indeterminate which adapter will be used.
 * If adapt-protocol is invoked multiple times for the same pair of
   protocols then the new adapter will only be installed for future
