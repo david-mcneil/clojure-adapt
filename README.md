@@ -1,7 +1,8 @@
 clojure-adapt
 ====
 
-Allow Clojure protocols to be extended to other protocols.
+Allow Clojure protocols to be extended to other protocols. More details are 
+[on my blog](http://david-mcneil.com/post/3495351254/clojure-protocol-adapters).
 
 Usage
 ----
