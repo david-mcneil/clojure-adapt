@@ -39,3 +39,8 @@ History
 At the Clojure Conj conference in 2010 Rich Hickey described an
 approach of dynamically extending a protocol to another protocol. This
 is an implementation of that idea.
+
+----
+
+The use and distribution terms for this software are covered by the Eclipse 
+Public License 1.0 http://opensource.org/licenses/eclipse-1.0.php.
